@@ -53,5 +53,4 @@ Pipfile.lock
 
 # Poetry
 poetry.lock
-
 .DS_Store
